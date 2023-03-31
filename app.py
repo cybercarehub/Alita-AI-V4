@@ -32,7 +32,7 @@ def api():
         return completion.choices[0].message
 
     else:
-        return 'Failed to Generate response!'
+        return 'Hmm, Something went wrong!'
 
 
 if __name__ == '__main__':
