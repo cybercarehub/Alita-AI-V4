@@ -1,6 +1,5 @@
 # Alita V4
-build a chatbot using the OpenAI's Chat GPT API "gpt-3.5-turbo" and Flasks Server. 
-
+Alita V4 is a developable, open source & a simple AI chatbot built using the OpenAI's ChatGPT API "gpt-3.5-turbo" and Flasks Server with python on a wed server. All the bugs and errors poped in the last version are 90% fixed and hope to connect this bot with Whatsapp in the v4.1
 ## Requirements
 
 1. Flask module to create a web server.
